@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AutoLoanApp</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="other_fees">Other Fees ($)</string>
+    <string name="sales_tax">Sales Tax (%)</string>
+    <string name="your_state">Your State</string>
+    <string name="amount_owed_on_trade_in">Amount Owed on Trade-in ($)</string>
+    <string name="trade_in_value">Trade-in Value ($)</string>
+    <string name="down_payment">Down Payment ($)</string>
+    <string name="cash_incentives">Cash Incentives ($)</string>
+    <string name="interest_rate">Interest Rate (%)</string>
+    <string name="loan_term_months">Loan Term (months)</string>
+    <string name="auto_price">Auto Price ($)</string>
+    <string name="monthly_payment">Monthly Payment</string>
+    <string name="total_price">Total Price</string>
+    <string name="total_price_of_auto_loan">Total Price of Auto Loan: $</string>
+    <string name="calculate_monthly_payment">Calculate Monthly Payment</string>
+    <string name="total_loandisplay">Total Loan: $</string>
+    <string name="sales_taxdisplay">Sales Tax: $</string>
+    <string name="down_paymentdisplay">Down Payment: $</string>
+    <string name="total_loan_paymentsdisplay">Total Loan Payments: $</string>
+    <string name="total_loan_interestdisplay">Total Loan Interest: $</string>
+    <string name="total_cost_price_interest_tax_feesdisplay">Total Cost (price, interest, tax, fees): $</string>
+    <string name="enter_monthly_payment">Enter Monthly Payment</string>
+    <string name="enter_auto_price">Enter Auto Price</string>
+
+
+    <string name="car_loan_tip_1">1. Know your credit score.</string>
+    <string name="car_loan_tip_2">2. Set a budget including all costs.</string>
+    <string name="car_loan_tip_3">3. Research loan options and understand interest rates.</string>
+    <string name="car_loan_tip_4">4. Consider a larger down payment.</string>
+    <string name="car_loan_tip_5">5. Avoid long-term loans.</string>
+    <string name="car_loan_tip_6">6. Read the fine print.</string>
+    <string name="car_loan_tip_7">7. Get pre-approved.</string>
+    <string name="car_loan_tip_8">8. Negotiate terms.</string>
+    <string name="car_loan_tip_9">9. Review documents carefully before signing.</string>
+    <string name="car_loan_tip_10">10. Understand your Interest Rate .</string>
+    <string name="AuthorName" > Joel Erulu </string>
+    <string name="ClassName" > Mobile Application Development Section 02 Spring 2024 </string>
+    <string name="about">About</string>
+    <string name="tips">Tips</string>
+    <string name="total_cost">Total Cost:</string>
+    <string name="loan_term">Loan term:</string>
+    <string name="monthly_paymenttextView">Monthly Payment:</string>
+    <string name="monthly_paymenttotal">Monthly Payment:</string>
+    <string name="sales_taxtotal">Sales Tax:</string>
+    <string name="down_paymenttotal">Down Payment:</string>
+    <string name="total_loan_amounttotal">Total Loan Amount:</string>
+    <string name="total_loan_paymentstotal">Total Loan Payments:</string>
+    <string name="total_loan_interesttotal">Total Loan Interest:</string>
+    <string name="total_costtotal">Total Cost:</string>
+
+
+</resources>
