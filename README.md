@@ -24,7 +24,7 @@ To use the AutoLoan app, follow these steps:
 ## Screenshots
 
 ![Screenshot 1](/src/screenshot1.JPG)
-![Screenshot 2](/src/screenshot2.JPG
+![Screenshot 2](/src/screenshot2.JPG)
 ![Screenshot 2](/src/screenshot3.JPG)
 
 ## Dependencies
