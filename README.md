@@ -36,5 +36,5 @@ To use the AutoLoan app, follow these steps:
 
 ## Authors
 
-- [Your Name](https://github.com/JoelErulu) - Developer
+- [Joel](https://github.com/JoelErulu) - Developer
 
